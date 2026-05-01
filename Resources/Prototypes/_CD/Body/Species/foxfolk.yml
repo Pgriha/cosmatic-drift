@@ -191,6 +191,7 @@
   - type: VisualOrganMarkings
     hideableLayers:
     - enum.HumanoidVisualLayers.HeadTop
+    - enum.HumanoidVisualLayers.Hair
 
 - type: entity
   parent: [ OrganBaseArmLeft, OrganFoxfolkExternal ]

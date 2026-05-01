@@ -1,1 +1,1 @@
-cd-chat-radio-hailing = Hailing
+cd-chat-radio-hailing = Космічний
